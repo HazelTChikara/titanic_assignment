@@ -3,8 +3,11 @@
         "cbar",
         "cmap",
         "coeff",
+        "elasticnet",
         "figuresize",
+        "knnimp",
         "logreg",
+        "logspace",
         "proba",
         "viridis"
     ]
