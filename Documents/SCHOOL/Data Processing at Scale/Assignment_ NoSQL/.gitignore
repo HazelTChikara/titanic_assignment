@@ -1,0 +1,21 @@
+# CSV data files (keep private)
+*.csv
+
+# RocksDB
+rocksdb-7.10.2/
+rocksdb-*.tar.gz
+
+# Build artifacts
+*.o
+*.a
+tester
+assignment-nosql
+
+# RocksDB database directory
+test/
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
